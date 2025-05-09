@@ -62,5 +62,5 @@ Target: Credit risk classification (Good/Bad)
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/german-credit-risk-analysis.git
+   git clone https://github.com/BasilBiju1217/german-credit-risk-analysis.git
    cd german-credit-risk-analysis
